@@ -4,11 +4,13 @@
 <h3>Demo</h3>
 
 <h2>Initially URL was not present in the LRU cache<br>
-![image](https://github.com/user-attachments/assets/69a34f77-f197-4c78-ac32-0565d439caac)
+![WhatsApp Image 2024-07-26 at 18 09 02](https://github.com/user-attachments/assets/abe9ad8f-6ff0-4c3a-a7b2-fb2523a23528)
+
 </h2>
 <br>
 <h2>Next time URL found in LRU cache
-![image](https://github.com/user-attachments/assets/b4342079-7dc4-40e3-991c-2ef1cf9fda1e)
+![WhatsApp Image 2024-07-26 at 18 14 27](https://github.com/user-attachments/assets/b86ca7c4-8c15-4b52-874d-c4286132742a)
+
 </h2>
 
 
